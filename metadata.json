@@ -1,0 +1,6 @@
+{
+  "name": "مول مطروح",
+  "description": "تطبيق مول مطروح الإلكتروني - تسوق من أفضل المتاجر والمطاعم في مرسى مطروح مع عروض حصرية وفلاش سيل وطلب مباشر عبر واتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
